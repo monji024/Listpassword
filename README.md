@@ -4,12 +4,12 @@
 
 ## How to install:
 
-- [] **`sudo apt-get update`**
+- [ ] **`sudo apt-get update`**
 
-- [] **`sudo apt-get upgrade`**
+- [ ] **`sudo apt-get upgrade`**
 
-- [] **`sudo gem install colorize`**
+- [ ] **`sudo gem install colorize`**
 
-- [] **`cd Listpassword`**
+- [ ] **`cd Listpassword`**
 
-- [] **`ruby main.rb`**
+- [ ] **`ruby main.rb`**
