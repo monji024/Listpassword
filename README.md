@@ -14,9 +14,13 @@ sudo apt-get upgrade
 sudo gem install colorize
 ```
 ```bash
+git clone https://github.com/monji024/Listpassword/tree/res
+```
+```bash
 cd Listpassword
 ```
 ```ruby
 ruby main.rb
 ```
+
 
