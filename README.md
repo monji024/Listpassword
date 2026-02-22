@@ -5,10 +5,10 @@
 ## How to install:
 
 ```bash
-sudo apt-get update
+sudo apt update
 ```
 ```bash
-sudo apt-get upgrade
+sudo apt upgrade
 ```
 ```ruby
 sudo gem install colorize
@@ -22,6 +22,7 @@ cd Listpassword
 ```ruby
 ruby main.rb
 ```
+
 
 
 
